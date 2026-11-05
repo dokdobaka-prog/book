@@ -12,8 +12,10 @@ Student review and corrections: [COMPLETE WITH ACTUAL WORK]
 
 ## Team
 
-Team number: [TO COMPLETE]
-Participants and individual contributions: [TO COMPLETE]
+Group number: 7
+Participants: Dilnaz Omarova, Aruana Smail, Madina Satualdypova.
+
+Individual contributions: [TO BE COMPLETED WITH ACTUAL WORK]
 
 ## EndTerm requirements still outstanding
 
